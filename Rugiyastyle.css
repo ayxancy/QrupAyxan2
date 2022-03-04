@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*SECTION 6*/
+.bgcb{
+    background-color: #9DC9C8;
+}
+.sec6main{
+    width: 1440px;
+    height: 780px;
+    left: -1px;
+    top: 5405px;
+    background: #9DC9C8;
+}
+.sec6title{
+    position: absolute;
+    width: 908px;
+    height: 66px;
+    left: 121px;
+    top: 5584px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+.sec6priceName{
+    position: absolute;
+    width: 170px;
+    height: 32px;
+    left: 122px;
+    top: 5704px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+}
+.sec6price{
+    position: absolute;
+    width: 481px;
+    height: 181px;
+    left: 122px;
+    top: 5734px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 101.38%;
+    color: #000000;
+}
+.sec6tableName{
+    position: absolute;
+    width: 294px;
+    height: 32px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+}
+.table3name1{
+    left: 122px;
+    top: 5889px;
+}
+.table3name2{
+    left: 485px;
+    top: 5889px;
+}
+.sec6tableAbout{
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 101.38%; 
+    color: #000000;
+}
+.table3about1{
+    left: 122px;
+    top: 5930px;
+}
+.table3about2{
+    left: 486px;
+    top: 5930px;
+}
+
+/*FOOT
+.footer{
+
+    position: absolute;
+    width: 1440px;
+    height: 390px;
+    left: -1px;
+    top: 6185px;
+    background: #000000;
+}
+.footerPic{
+    position: absolute;
+    left: 121px;
+    top: 6235px;
+}
+.footerPic img{
+    width: 115px;
+    height: 68px;
+}
+
+.instagram{     
+    position: absolute;
+    left: 121px;
+    top: 6333px;
+    
+}
+.instagram img{
+    width: 33px;
+    height: 33px;   
+}
+
+.facebook{
+    position: absolute;
+    left: 172px;
+    top: 6333px;
+}
+.facebook img{
+    width: 32px;
+    height: 32px;
+}
+
+.social3{
+    position: absolute;
+    left: 225px;
+    top: 6331px;       
+}
+.social3 img{
+    width: 35px;
+    height: 35px;
+}
+
+.social4{
+    position: absolute;
+    left: 285px;
+    top: 6332px;
+}
+.social4 img{
+    width: 34px;
+    height: 34px;
+}
+.contactNumPic{
+    position: absolute;
+    left: 975px;
+    top: 6239px;
+}
+.contactNumPic img{
+    width: 27px;
+    height: 27px;
+
+}
+
+.contactNumber{
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1024px;
+    top: 6244px;
+    background-color: #000;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #FFFFFF;
+}
+.contactMailPic{
+    position: absolute;
+    left: 975px;
+    top: 6291px;
+}
+.contactMailPic img{
+    width: 27px;
+    height: 18px;
+}
+.contactMailAdress{
+    position: absolute;
+    width: 269px;
+    height: 40px;
+    left: 1024px;
+    top: 6287px;
+    background-color: #000;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #FFFFFF;
+}
+.copyright{
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 121px;
+    top: 6512px;
+    background-color: #000;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 101.38%;
+    color: #FFFFFF;
+}
