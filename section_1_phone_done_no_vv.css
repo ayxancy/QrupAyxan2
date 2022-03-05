@@ -7,7 +7,7 @@
 
     #container{
 
-        width:375px;
+        width:100vw;
 
 
 
@@ -15,34 +15,34 @@
     }
     .watch,.global{
 
-        width: 10px;
-        height: 10px;
+        width: 2.6666666667vw;
+        height: 2.6666666667vw;
 
     }
 
     .firstPhoto{
 
-        width: 52.19px;
-        height: 30.75px;
-        margin-top: 36px;
-        margin-left: 35px;
+        width: 13.9173333333vw;
+        height: 8.2vw;
+        margin-top: 2.6vw;
+        margin-left: 5vw;
     }
 
     .global{
 
-        margin-left: 35px;
+        margin-left: 9.333333333333334vw;
     }
 
     .history span{
 
         font-family: Roboto;
 
-        width: 60.58px;
-        height: 14.91px;
-        font-size: 10px;
+        width: 16.154666666666667vw;
+        height: 3.976vw;
+        font-size: 2.6666666666666665vw;
         display: inline-block;
         justify-content: space-between;
-        margin-top: 44.6px;
+        margin-top: 11.893333333333333vw;
 
 
 
@@ -50,51 +50,54 @@
 
     .head1{
 
-        width: 292.63px;
-        height: 88.53px;
+        width: 78.03466666666667vw;
+        height: 23.608vw;
         font-family: Roboto Slab;
-        font-size: 37px;
-        margin-top:  8.06px; ;
-        margin-left: 35.7px;
+        font-size: 9.866666666666667vw;
+        margin-top:  2.1493333333333333vw; ;
+        margin-left: 9.520000000000001vw;
     }
     .headerAbout{
 
-        width: 212.4px;
-        height: 28.96px;
+        width: 56.64vw;
+        height: 7.722666666666667vw;
         font-style: Roboto;
         font-weight: 400;
-        font-size: 10px;
-        margin-left: 35.74px;
+        font-size: 2.6666666666666665vw;
+        margin-left: 9.530666666666667vw;
 
 
     }
 
     .photo1{
 
-        display: flex;
-        flex-direction: row-reverse;
-        margin-right: 32.34px;
-        width: 375px;
+        /* display: flex; */
+        /* flex-direction: row-reverse; */
+        /* margin-right: 32.34px; */
+        width: 39vw;
+        position: relative;
+        left: 27vw;
+        height: 47vw;
 
     }
 
     .author-box{
 
-        width: 225.36px;
-        height: 93.19px;
+        width: 60.096vw;
+        height: 24.850666666666665vw;
 
         background-color: #1E4681;
 
         font-family: Roboto Slab;
 
 
-        margin-left: 37.98px;
+        margin-left: 10.127999999999998vw;
         color: #ffffff;
         font-family: Roboto Slab;
         font-style: normal;
         font-weight: 400;
 
-        border-radius: 2.32986px;
+        border-radius: 0.621296vw;
 
 
 
@@ -104,8 +107,8 @@
 
     .headerAuthorWords{
 
-        font-size: 11px;
-        margin: 8.97px 12.59px 31.57px 12.13px;
+        font-size: 2.933333333333333vw;
+        margin: 2.3920000000000003vw 3.3573333333333335vw 8.418666666666667vw 3.2346666666666666vw;
         
 
 
@@ -117,12 +120,12 @@
         font-style: normal;
         font-weight: normal;
 
-        line-height: 14px;
-        width: 130,7px;
+        line-height: 3.7333333333333334vw;
+        width: 130,1.8666666666666667vw;
 
-        height: 21,27px;
-        margin-left: 87.7px;
-        font-size: 10px;
+        height: 21,7.2vw;
+        margin-left: 23.386666666666667vw;
+        font-size: 2.6666666666666665vw;
         font-weight: 300;
     }
 
@@ -147,29 +150,29 @@
     #container{
 
 
-        width: 834px;
+        width: 100vw;
         
     }
 
     .watch,.global{
 
-        width: 12.7px;
-        height: 12.7px;
+        width: 1.5227817745803358vw;
+        height: 1.5227817745803358vw;
     }
 
     .firstPhoto{
 
-        width: 65px;
-        height: 38.2px;
-        margin-left: 70px;
-        margin-top: 22px;
+        width: 7.793764988009593vw;
+        height: 4.580335731414869vw;
+        margin-left: 5.393285371702637vw;
+        margin-top: 2.6378896882494005vw;
 
 
     }
 
     .global{
 
-        margin-left: 70px;
+        margin-left: 10.7vw;
 
     }
 
@@ -178,21 +181,21 @@
         font-family: Roboto;
         display: inline-block;
         justify-content: space-between;
-        width: 75.29px;
-        height: 18.53px;
-        font-size: 12px;
-        margin-top: 58px;
+        width: 9.02757793764988vw;
+        height: 2.221822541966427vw;
+        font-size: 1.4388489208633093vw;
+        margin-top: 6.954436450839329vw;
 
     }
 
     .head1{
 
-        width: 363px;
-        height: 110px;
+        width: 43.52517985611511vw;
+        height: 13.189448441247002vw;
         font-family: Roboto Slab;
-        font-size: 46px;
-        margin-top: 7.5px;
-        margin-left: 70.66px;
+        font-size: 5.5155875299760195vw;
+        margin-top: 0.8992805755395683vw;
+        margin-left: 8.47242206235012vw;
 
         
 
@@ -200,10 +203,10 @@
 
     .headerAbout{
 
-        width: 264px;
-        height: 36px;
-        margin-left: 71px;
-        font-size: 12px;
+        width: 31.654676258992804vw;
+        height: 4.316546762589928vw;
+        margin-left: 8.513189448441247vw;
+        font-size: 1.4388489208633093vw;
         font-weight: 400;
         font-family: Roboto;
 
@@ -214,9 +217,9 @@
         display: flex;
         flex-direction: row-reverse;
 
-        width: 176px;
-        height: 206.18px;
-        margin-right: 142px;
+        width: 21.103117505995204vw;
+        height: 24.72182254196643vw;
+        margin-right: 10.026378896882495vw;
 
         position: relative;
        
@@ -231,11 +234,11 @@
 
         background-color: #1E4681;
         font-family: Roboto Slab;
-        border-radius: 2.9px;
-        width: 280px;
-        height: 115px;
-        margin-left: 237px;
-        margin-top: 102px;
+        border-radius: 0.34772182254196643vw;
+        width: 33.57314148681055vw;
+        height: 13.788968824940047vw;
+        margin-left: 28.41726618705036vw;
+        margin-top: 12.23021582733813vw;
         font-weight: 300;
         color: #ffffff;
 
@@ -244,13 +247,13 @@
 
     .headerAuthorWords{
 
-        width: 250px;
-        height: 65px;
+        width: 29.976019184652277vw;
+        height: 7.793764988009593vw;
 
         font-family: Roboto Slab;
-        font-size: 14px;
+        font-size: 1.6786570743405276vw;
         font-style: normal;
-        line-height: 18px;
+        line-height: 2.158273381294964vw;
         letter-spacing: 0em;
         text-align: left;
 
@@ -260,19 +263,19 @@
     .headerAuthor
     {
 
-        padding-top: 20px;
-        padding-left: 15.08px;
+        padding-top: 2.3980815347721824vw;
+        padding-left: 1.8081534772182255vw;
 
 
 
     }
     .headerAuthorName{
 
-        width: 162.46px;
-        height: 26.43px;
+        width: 19.479616306954437vw;
+        height: 3.1690647482014387vw;
         font-family: Roboto;
-        font-size: 12px;
-        padding: 8.6px 9.4px 4.2px 108px;
+        font-size: 1.4388489208633093vw;
+        padding: 1.0311750599520384vw 1.1270983213429258vw 0.5035971223021583vw 12.949640287769784vw;
 
 
 
@@ -305,7 +308,7 @@
     #container{
 
 
-        width: 1440px;
+        width: 100vw;
 
         
     }
@@ -313,37 +316,40 @@
     .globe,.watch,.historyPaper{
 
 
-        width: 22px;
-        height: 22px;
+        width: 1.5277777777777777vw;
+        height: 1.5277777777777777vw;
     }
 
 
     .firstPhoto{
 
 
-        width: 112px;
-        height: 66px;
-        margin-top: 21px;
-        margin-left: 121px;
+        width: 7.777777777777778vw;
+        height: 4.583333333333333vw;
+        margin-top: 2.4583333333333333vw;
+        margin-left: 6.402777777777779vw;
 
     }
 
     .global{
 
-        margin-left: 121px;
+        margin-left: 12.402777777777779vw;
     }
 
 
     .history span{
 
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 1.3888888888888888vw;
     font-style: normal;
     font-weight: 400;
-    line-height: 23px;
+    line-height: 1.5972222222222223vw;
     letter-spacing: 0em;
     text-align: left;
     display: inline-block;
+    position: relative;
+    margin-top: 7.944444444444445vw;
+    margin-left: 1.0833333333333335vw;
 
     width: 130px;
     height: 32px;
@@ -357,34 +363,34 @@
 
 
         font-family: Roboto Slab;
-        font-size: 80px;
+        font-size: 5.555555555555555vw;
         font-style: normal;
         font-weight: 700;
-        line-height: 81px;
+        line-height: 5.625vw;
         letter-spacing: 0em;
         text-align: left;
-        width: 628px;
-        height: 190px;
-        margin-left: 122px;
+        width: 43.611111111111114vw;
+        height: 13.194444444444445vw;
+        margin-left: 8.472222222222221vw;
 
     }
 
     .headerabout{
 
 
-        width:414px;
-        height: 62px;
-        margin-left: 122px;
+        width:28.75vw;
+        height: 4.305555555555555vw;
+        margin-left: 8.472222222222221vw;
     }
 
     .photo1{
 
         display: flex;
         justify-content: flex-end;
-        width: 304px;
-        height: 356px;
+        width: 21.11111111111111vw;
+        height: 24.72222222222222vw;
         position: relative;
-        margin-left: 140px;
+        margin-left: 9.722222222222221vw;
 
     }
     .header{
@@ -397,50 +403,52 @@
     .author-box{
 
 
-        width: 483px;
-        height: 200px;
+        width: 33.541666666666664vw;
+        height: 13.88888888888889vw;
         background: #1E4681;
-        margin-left: 409.39px;
+        margin-left: 28.429861111111112vw;
 
         color: #ffffff;
         font-family: Roboto Slab;
         font-style: normal;
         font-weight: 400;
 
-        border-radius: 5px ;
+        border-radius: 0.3472222222222222vw ;
+
+        margin-top: 12.291666666666666vw;
     }
     .headerAbout{
 
-        width: 414px;
-        height: 62px;
+        width: 28.75vw;
+        height: 4.305555555555555vw;
 
         font-weight: 400;
-        font-size: 20px;
-        margin-left: 122px;
-        margin-top: -70px;
+        font-size: 1.3888888888888888vw;
+        margin-left: 8.472222222222221vw;
+        margin-top: -4.861111111111111vw;
 
 
 
     }
     
     .headerAuthorWords{
-        height: 113px;
-        width: 430.5885009765625px;
-        padding-left:26.03px;
-        padding-top: 19.26px; 
-        font-size:25px ;
+        height: 7.847222222222222vw;
+        width: 29.901979234483505vw;
+        padding-left:1.8076388888888888vw;
+        padding-top: 1.3375000000000001vw; 
+        font-size:1.7361111111111112vw ;
     }
 
     .headerAuthorName{
 
-        height: 45.641456604003906px;
-        width: 280.4994812011719px;
+        height: 3.1695455975002713vw;
+        width: 19.47913063897027vw;
         font-family: Roboto;
-        font-size: 20px;
+        font-size: 1.3888888888888888vw;
         font-style: normal;
         font-weight: 400;
-        padding-top: 22.12px;
-        padding-left: 184.61px;
+        padding-top: 1.5361111111111112vw;
+        padding-left: 12.82013888888889vw;
         display: flex;
         justify-content: flex-end;
         
