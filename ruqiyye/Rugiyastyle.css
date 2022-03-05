@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+    margin: 0;
+    display: flex;
+    padding: 0;
+}
+div{
+    display: flex;
+    flex-direction: column;
+}
+.section6{
+    
+    margin: 0;
+    width: 671px;
+    height: 363.46px;
+
+    }
+.section6box{
+    margin: 0px;
+    width: 376px;
+    background-color: #9DC9C8;
+    height: 363.46px;
+
+}
+
+.sec6title{
+    width: 224px;
+    height: 63px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 101.38%;
+    color: #000000;
+    margin: 62px 390px 238.46px 57px ;
+     
+}
+
+
+.sec6priceName{
+    font-family: 'Roboto';
+    width: 79.22px;
+    height: 14.91px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 101.38%;
+    color: #000000;
+    margin-top:22.33px;
+    margin-left: 56px; 
+}
+.sec6price{
+    width: 224.13px;
+    height: 84.34px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 101.38%;
+}
