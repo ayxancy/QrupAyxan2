@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;400;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
 
 @media (max-width:991px) {
     
 
-    .container{
+    #container{
 
         width:375px;
 
@@ -92,7 +92,7 @@
         color: #ffffff;
         font-family: Roboto Slab;
         font-style: normal;
-        font-weight: 300;
+        font-weight: 400;
 
         border-radius: 2.32986px;
 
@@ -106,6 +106,7 @@
 
         font-size: 11px;
         margin: 8.97px 12.59px 31.57px 12.13px;
+        
 
 
     }
@@ -269,7 +270,7 @@
 
         width: 162.46px;
         height: 26.43px;
-
+        font-family: Roboto;
         font-size: 12px;
         padding: 8.6px 9.4px 4.2px 108px;
 
@@ -290,7 +291,7 @@
 }
 
 
-@media (min-width:1280px)
+@media screen and (min-width:1280px)
 
 {
 
@@ -309,7 +310,7 @@
         
     }
 
-    .globe,.watch{
+    .globe,.watch,.historyPaper{
 
 
         width: 22px;
@@ -317,8 +318,142 @@
     }
 
 
+    .firstPhoto{
 
 
+        width: 112px;
+        height: 66px;
+        margin-top: 21px;
+        margin-left: 121px;
+
+    }
+
+    .global{
+
+        margin-left: 121px;
+    }
+
+
+    .history span{
+
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: inline-block;
+
+    width: 130px;
+    height: 32px;
+
+
+
+    }
+
+    .head1{
+
+
+
+        font-family: Roboto Slab;
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 81px;
+        letter-spacing: 0em;
+        text-align: left;
+        width: 628px;
+        height: 190px;
+        margin-left: 122px;
+
+    }
+
+    .headerabout{
+
+
+        width:414px;
+        height: 62px;
+        margin-left: 122px;
+    }
+
+    .photo1{
+
+        display: flex;
+        justify-content: flex-end;
+        width: 304px;
+        height: 356px;
+        position: relative;
+        margin-left: 140px;
+
+    }
+    .header{
+
+
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .author-box{
+
+
+        width: 483px;
+        height: 200px;
+        background: #1E4681;
+        margin-left: 409.39px;
+
+        color: #ffffff;
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: 400;
+
+        border-radius: 5px ;
+    }
+    .headerAbout{
+
+        width: 414px;
+        height: 62px;
+
+        font-weight: 400;
+        font-size: 20px;
+        margin-left: 122px;
+        margin-top: -70px;
+
+
+
+    }
+    
+    .headerAuthorWords{
+        height: 113px;
+        width: 430.5885009765625px;
+        padding-left:26.03px;
+        padding-top: 19.26px; 
+        font-size:25px ;
+    }
+
+    .headerAuthorName{
+
+        height: 45.641456604003906px;
+        width: 280.4994812011719px;
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        padding-top: 22.12px;
+        padding-left: 184.61px;
+        display: flex;
+        justify-content: flex-end;
+        
+
+
+    }
+
+    .total{
+
+
+    display: flex;
+    justify-content: center;
+}
 
 
 
