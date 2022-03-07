@@ -1,0 +1,483 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media screen and (min-width:320px) {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+/SECTION 4
+    
+    .containermainsec4-5{
+        display: flex;
+        justify-content:center;
+    }
+    #section4{
+        display: flex;
+        flex-direction: column;
+        width: 98.93333333333334vw;
+    }
+    .sec4title{   
+        width: 75.46533333333333vw;
+        height: 12.210666666666667vw;
+        margin: 22.829666666666668vw 11.733333333333333vw 9.071333333333335vw 13.291666666666664vw;
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 6.933333333333334vw;
+        color:#000000;
+    }
+    /* .cols{
+        height: 100%;
+        
+    } */
+    .col{
+        width: 49.333333333333336vw;
+        height: 40.563vw;
+        margin-bottom: 6.442666666666667vw;
+        margin-left: 25.333333333333332vw;
+        background: #FFFFFF;
+        box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+        border-radius: 4.369vw;
+    }
+    .col8{
+        margin-bottom: 12.533333333333333vw;
+    }
+    .col img{   
+        width: 49.333333333333336vw;
+        height: 19.833333333333332vw; 
+    }
+    .colname{        
+        width: 45.416666666666664vw;
+        height: 4.878vw;
+        margin-top: 1.3363333333333332vw;
+        margin-left: 2.4863333333333335vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 3.7333333333333334vw;
+        line-height: 130%;
+        color: #000000;
+    }
+    .colabout{  
+        margin-top: 3.9759999999999995vw;
+        margin-left: 2.366vw;
+        width: 45.416666666666664vw;
+        height: 4.108333333333335vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-size:3.2vw;
+        font-weight: normal;
+        line-height: 130%;       
+        color: #000000;
+    }
+    .colabout8{
+        /* margin-top: 5.625vw; */
+    }
+
+   /* section5 */
+    .sec5main{
+        /* margin-top: 55.26749999999999px; */
+        width: 99vw;
+        height: 112.988vw; 
+        
+        background-color: #EFEFEF;
+          
+        
+
+    }
+    
+    .sec5title{
+        
+        width: 68.57966666666668vw;
+        height: 14.896333333333333vw;
+        padding-top: 42.21875px;
+        margin-left: 9.65vw;        
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 7.058333333333334vw;
+        line-height: 101.38%;
+        color: #000000;
+    }
+    .sec5content{
+
+        margin-top: 15.466666666666667vw;
+
+
+
+    }
+    .sec5about{
+        width: 82.13333333333334vw;
+        height: 66.3vw;
+        margin-top: 6.6963333333333335vw;   
+        margin-left: 9.649999999999997vw;
+        margin-right:8.533333333333333vw;
+        margin-bottom:14.133333333333333vw;
+        background: #FFFFFF;
+        box-shadow: 0.1242592vw 0.1242592vw 2.485184vw rgba(0, 0, 0, 0.25);
+        border-radius: 4.369vw;
+    }
+    .sec5aboutMain{
+       
+        width: 71.125vw;
+        height: 29.624333333333343vw;
+        margin-left: 5.63vw;
+        padding-top: 4.705333333333333vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-weight: 400;
+        font-size: 2.6666666666666665vw;
+        line-height: 150%;     
+        color: #000000;
+    }
+    .sec5aboutPic{
+        margin-top: 5.599999999999999vw;
+        margin-left: 5.6vw;
+    }
+    .sec5aboutPic img{
+        width: 21.333333333333332vw;
+        height: 22.4vw;
+        margin-top: 21.5px;
+    }
+    .sec5aboutContainer{
+        display: flex;
+    }
+    .sec5aboutAuthor{
+        width: 43.733333333333334vw;
+        height: 8.533333333333333vw;
+        margin-left: 3.6346666666666665vw;
+        margin-top: 10.606vw;
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 101.38%;      
+        color: #000000;
+    }
+    .sec5aboutAuthorContainer{
+        display: flex;
+        flex-direction: column;
+        margin-top: 4.375vw;
+        /* margin-left: -6.656249999999999px; */
+    }
+    .sec5aboutFac{
+        margin-top: -2.375vw;
+        margin-left: 4.075vw;
+    }
+    .sec5aboutFac img{
+        width: 4vw;
+        height: 4.533333333333333vw;
+    }
+}
+@media screen and (min-width:992px) {
+
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        
+    }
+    
+    /SECTION 4/
+
+    .sec4title{   
+        width: 52.838vw;
+        height: 5.429vw;
+        margin-top: 0;
+        margin-left: 12.121vw;
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 3.226vw;
+        line-height: 101.38%;
+        color: #000000;      
+    }
+    .cols{
+        width: 86.073vw; 
+        margin-left: 8.065vw;
+        
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .colomns{
+        margin-top: -8.468vw;
+    }
+    .col{
+        width: 23.295vw;
+        height: 19.15vw;
+        margin-left: 2.595vw;
+        background: #FFFFFF;
+        box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
+        border-radius: 1.752vw;
+      
+    }
+    .col img{   
+        width: 23.295vw;
+        height: 9.342vw;
+    }
+ 
+    .colname{        
+        width: 21.31vw;
+        height: 2.277vw;
+        margin-top: 0.642vw;
+        margin-left: 1.109vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1.714vw;
+        line-height: 130%;
+        color: #000000;
+    }
+    .colabout{  
+        margin-top: 1.868vw;
+        margin-left: 1.109vw;
+        width: 17.145vw;
+        height: 2.96vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.21vw;
+        line-height: 130%;       
+        color: #000000;
+    }
+    .colabout8{
+        margin-top: 2.621vw;
+    }
+
+    /SECTION 5/
+    .sec5main{
+        margin-top: -6.754vw;
+        width: 99vw;
+        height: 45.539vw;    
+        background: #EFEFEF;
+    }
+    
+    .sec5title{
+        z-index: 3;
+        width: 57.625vw;
+        height: 5.429vw;  
+        margin-left: 10.356vw;  
+        margin-top: 5.292vw;
+        padding-top: 5.313vw;
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 3.226vw;
+        line-height: 101.38%;
+        color: #000000;
+        
+    }
+    .sec5about{
+        width: 52.181vw;
+        height: 26.331vw;
+        margin-top: 7.829vw;
+        margin-left: 10.356vw;
+        background: #FFFFFF;
+        box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+        border-radius: 1.752vw;
+    }
+    .sec5aboutMain{
+        width: 40.869vw;
+        height: 11.852vw;
+        padding-top: 2.336vw; 
+        margin-left: 3.388vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.29vw;
+        line-height: 150%;
+        color: #000000;
+    }
+    .sec5aboutPic{
+        margin-top: 2.984vw;
+        margin-left: 1.518vw;
+    }
+    .sec5aboutPic img{
+        width: 11.093vw;
+        height: 9.867vw;
+    }
+    .sec5aboutContainer{
+        display: flex;
+    }
+    .sec5aboutAuthor{
+        width: 20.61vw;
+        height: 3.445vw;  
+        font-family: Roboto Slab;
+        margin-top: 2.919vw;
+        
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1.714vw;
+        line-height: 101.38%;    
+        color: #000000;
+    }
+    .sec5aboutAuthorContainer{
+        display: flex;
+        flex-direction: column;
+        margin-top: 3.075vw;
+        margin-left: -3.252vw;
+    }
+    .sec5aboutFac{
+        margin-top: -0.154vw;
+        margin-left: 4.275vw;
+    }
+    .sec5aboutFac img{
+        width: 1.868vw;
+        height: 1.809vw;
+    }
+} 
+@media screen and (min-width:1280px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    /SECTION 4/
+    .sec4title{      
+        width: 70.703vw;
+        height: 7.266vw; 
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 4.297vw;
+        line-height: 101.38%;        
+        color: #000000;
+         
+    }
+    .cols{
+        width: 96.073vw; 
+       
+        margin-top: 3.422vw;
+        margin-left: 1.674vw;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .colomns{
+        margin-top: -8.468vw;
+        margin-left: 1vw;
+    }
+    .col{
+        width: 27.172vw;
+        height: 25.625vw;
+        margin-left: 2.595vw;
+        background: #FFFFFF;
+        box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+        border-radius: 2.344vw;
+      
+    }
+    .col img{   
+        width: 27.172vw;
+        height: 12.5vw;
+    }
+    .colname{        
+        width: 28.516vw;
+        height: 3.047vw;   
+        margin-top: 0.859vw;
+        margin-left: 1.563vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 2.044vw;
+        line-height: 130%;
+        color: #000000;
+    }
+    .colabout{  
+        width: 28.516vw;
+        height: 4.922vw;    
+        margin-top: 2.5vw;
+        margin-left: 1.484vw;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.693vw;
+        line-height: 130%;      
+        color: #000000;
+    }
+    .colabout8{
+        margin-top: 2.821vw;
+    }
+
+    /SECTION 5/
+    .sec5main{
+        margin-top: -9vw;
+        width: 98vw;
+        height: 60.938vw;   
+        background: #EFEFEF;
+    }
+    
+    .sec5title{
+        z-index: 3;
+        width: 77.109vw;
+        height: 7.266vw;    
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 4.297vw;
+        line-height: 101.38%;
+        color: #000000;
+        
+    }
+    .sec5about{
+        width: 61.797vw;
+        height: 35.234vw;
+        background: #FFFFFF;
+        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 2.344vw;
+    }
+    .sec5aboutMain{
+        width: 54.688vw;
+        height: 15.859vw;     
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.563vw;
+        line-height: 150%;
+        color: #000000;
+    }
+    .sec5aboutPic{
+        margin-top: 2.984vw;
+        margin-left: 1.518vw;
+    }
+    .sec5aboutPic img{
+        width: 14.844vw;
+        height: 13.203vw;
+    }
+    .sec5aboutContainer{
+        display: flex;
+    }
+    .sec5aboutAuthor{
+        width: 27.578vw;
+        height: 4.609vw;   
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 2.344vw;
+        line-height: 101.38%;  
+        color: #000000;
+    }
+    .sec5aboutAuthorContainer{
+        display: flex;
+        flex-direction: column;
+        margin-top: 3.075vw;
+        margin-left: -3.252vw;
+    }
+    .sec5aboutFac{
+        margin-top: -0.154vw;
+        margin-left: 4.275vw;
+    }
+    .sec5aboutFac img{
+        width: 2.5vw;
+        height: 2.422vw;
+    }
+}
