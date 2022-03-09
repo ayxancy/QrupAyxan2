@@ -12,6 +12,10 @@
     width: 2.6666666667vw;
     height: 2.6666666667vw;
 }
+.divhistory{
+
+    margin-left: -2vw;
+}
 .firstPhoto {
     width: 13.9173333333vw;
     height: 8.2vw;
@@ -23,7 +27,7 @@
 }
 .history span {
     font-family: Roboto;
-    width: 16.154666666666667vw;
+    width: 20.154666666666667vw;
     height: 3.976vw;
     font-size: 2.6666666666666665vw;
     display: inline-block;
@@ -80,10 +84,11 @@
     line-height: 3.7333333333333334vw;
     width: 130, 1.8666666666666667vw;
     height: 21, 7.2vw;
-    margin-left: 23.386666666666667vw;
+    margin-left: 30.386666666666667vw;
     font-size: 2.6666666666666665vw;
     font-weight: 300;
-    padding-bottom: 2vw;
+    /* padding-bottom: 2vw; */
+    margin-top: -3vw;
 }
 .total {
     display: flex;
@@ -110,7 +115,7 @@
     width: 7.793764988009593vw;
     height: 4.580335731414869vw;
     margin-left: 5.393285371702637vw;
-    margin-top: 2.6378896882494005vw;
+    margin-top: 0.9378896882494005vw;
 }
 .global {
     margin-left: 10.7vw;
@@ -122,7 +127,7 @@
     width: 9.02757793764988vw;
     height: 2.221822541966427vw;
     font-size: 1.4388489208633093vw;
-    margin-top: 6.954436450839329vw;
+    margin-top: 8.954436450839329vw;
 }
 .head1 {
     width: 43.52517985611511vw;
@@ -159,6 +164,7 @@
     margin-top: 12.23021582733813vw;
     font-weight: 300;
     color: #ffffff;
+    margin-top: 9vw;
 }
 .headerAuthorWords {
     width: 29.976019184652277vw;
@@ -368,8 +374,9 @@ main {
     color: #000000;
     /* width: 18.64vw; */
     height: 4.845vw;
-    padding-right: 13.333vw;
-    padding-top: 3vw;
+    padding-right: 20.333vw;
+    padding-top: 10vw;
+    padding-bottom: 1vw;
 
 }
 .hero p:nth-child(even) {
@@ -571,6 +578,7 @@ main {
     line-height: 101.38%;
     color: #000000;
     margin-left: 8.403vw;
+    margin-bottom: 4vw;
 }
 .texts {
     display: flex;
@@ -728,6 +736,7 @@ main {
     font-size: 3.819vw;
     line-height: 101.38%;
     color: #000000;
+    margin-bottom: 4vw;
 }
 .texts {
     display: flex;
@@ -791,7 +800,7 @@ box-sizing: border-box;
 }
 
 @media screen and (min-width:320px) {
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');}
 * {
     margin: 0;
     padding: 0;
@@ -985,6 +994,7 @@ margin-top: 5.625vw;
         border-radius: 2.0833333333333335vw;
         box-shadow: 0.06944444968546037vw 0.06944444968546037vw 1.0416666666666667vw 0vw #00000040;
         width: 27.697841726618705vw;
+        height: 22.777vw;
     }
     .colomn2,
     .colomn3,
@@ -1391,6 +1401,15 @@ width: 375px;
     .container {
         width: 100vw;
     }
+    .leftside,.rightside{
+
+        width: 45vw;
+    }
+
+    .rightside{
+
+        padding-left:25vw;
+    }
     .section6 {
         width: 100vw;
         height: 55.39568345323741vw;
@@ -1457,6 +1476,7 @@ width: 375px;
     }
     .table3about2 {
         padding-left: 4.860911270983213vw;
+        width: 25vw;
     }
     .footer {
         width: 100vw;
@@ -1595,6 +1615,7 @@ width: 375px;
     }
     .table3about2 {
         padding-left: 4.861111111111111vw;
+        width: 27vw;
     }
     .footer {
         background-color: black;
@@ -1642,6 +1663,7 @@ width: 375px;
     }
     .rightside {
         padding-top: 4.097222222222222vw;
+        padding-left: 29vw;
     }
     .mailwithphoto,
     .contact-numberwithphoto {
